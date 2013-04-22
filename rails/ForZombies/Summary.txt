@@ -1,0 +1,3 @@
+Following 'Rails for Zombies' 
+
+Aim: to develop  a twitter like application using the Ruby web framework 
