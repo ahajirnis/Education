@@ -12,7 +12,7 @@
 # 2 - lizard
 # 1 - scissors
 
-import Random;
+import random;
 MapArray = ["scissors","lizard","paper","spock","rock"]
 
 # helper functions
@@ -40,28 +40,38 @@ def rpsls(name):
     Perform rpsls against User's choice and randomly generated Computer choice
     """
     #return 0;
-    winners = [1,2,-3,-4];
-    losers = [-1,-2,3,4];
+    losers = [1,2,-3,-4];
+    winners = [-1,-2,3,4];
 
     # convert name to player_number using name_to_number
-        userChoice = name_to_number(name);
-        
-    # compute random guess for comp_number using random.randrange()
-        compChoice = Random.RandRange(1,5);
-    # compute difference of player_number and comp_number modulo five
-        diff = userChoice - compChoice;
-    # use if/elif/else to determine winner
-        
-    # convert comp_number to name using number_to_name
+    print "Player chooses "+name;
+    userChoice = name_to_number(name.lower());
     
-    # print results
+    # compute random guess for comp_number using random.randrange()
+    compChoice = random.randrange(1,5);
+    print "Computer chooses "+number_to_name(compChoice);
+    
+    # compute difference of player_number and comp_number modulo five
+    diff = userChoice - compChoice;
+    
+    
+    # use if/elif/else to determine winner
+    if (diff == 0):
+        print "Draw!!!";
+    elif(diff in winners):
+        print "Player wins!";
+    elif(diff in losers):
+        print "Computer wins!";
+    else:
+        print "Is that even possible?";
+       
 
     
 # test your code
-#rpsls("rock")
-#rpsls("Spock")
-#rpsls("paper")
-#rpsls("lizard")
-#rpsls("scissors")
+rpsls("rock")
+rpsls("Spock")
+rpsls("paper")
+rpsls("lizard")
+rpsls("scissors")
 
 # always remember to check your completed program against the grading rubric
