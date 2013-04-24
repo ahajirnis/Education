@@ -13,6 +13,8 @@
 # 1 - scissors
 
 import random;
+
+#global array variable to store the options in a specific format
 MapArray = ["scissors","lizard","paper","spock","rock"]
 
 # helper functions
@@ -39,7 +41,6 @@ def rpsls(name):
     """
     Perform rpsls against User's choice and randomly generated Computer choice
     """
-    #return 0;
     losers = [1,2,-3,-4];
     winners = [-1,-2,3,4];
 
@@ -57,13 +58,14 @@ def rpsls(name):
     
     # use if/elif/else to determine winner
     if (diff == 0):
-        print "Draw!!!";
+        print "Player and computer tie!";
     elif(diff in winners):
         print "Player wins!";
     elif(diff in losers):
         print "Computer wins!";
     else:
         print "Is that even possible?";
+    print "";
        
 
     
