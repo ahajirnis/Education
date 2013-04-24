@@ -2,6 +2,11 @@
 # PLEASE NOTE MY VALUES ARE DIFFERENT FROM TEMPLATE
 
 
+# Also as is tradition a Quote from Monty Python
+#“-She turned me into a newt! 
+#-A newt?
+#-I got better...”
+
 # The key idea of this program is to equate the strings
 # "rock", "paper", "scissors", "lizard", "Spock" to numbers
 # as follows:
