@@ -47,7 +47,7 @@ def rpsls(name):
     userChoice = name_to_number(name.lower());
     
     # compute random guess for comp_number using random.randrange()
-    compChoice = random.randrange(1,5);
+    compChoice = random.randrange(1,6);
     print "Computer chooses "+number_to_name(compChoice);
     
     # compute difference of player_number and comp_number modulo five
