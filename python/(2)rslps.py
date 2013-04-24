@@ -13,8 +13,6 @@
 # 1 - scissors
 
 import random;
-
-#global array variable to store the options in a specific format
 MapArray = ["scissors","lizard","paper","spock","rock"]
 
 # helper functions
