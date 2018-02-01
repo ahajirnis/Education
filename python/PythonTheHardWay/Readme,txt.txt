@@ -1,1 +1,0 @@
-This is a collection of code written while learning Python via the book Learn Python the hard way.
