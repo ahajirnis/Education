@@ -1,4 +1,4 @@
 Education
 =========
 
-Learning various languages (Roughly following 7 languages in 7 weeks book)
+Tracks multiple course that I signed up for and I am juggling currently.
