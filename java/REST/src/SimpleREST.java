@@ -55,21 +55,5 @@ public class SimpleREST
             in.close();
             return bout.toByteArray();
         }
-
-        private void copyStream(InputStream is, OutputStream os) throws IOException {
-            byte[] buf = new byte[4096];
-            int n;
-            while ((n = is.read(buf)) >= 0) {
-                os.write
-                        (buf, 0, n);
-            }
-        }
-
-        private void zipfile ()
-        {
-
-        }
-
-
     }
 }
