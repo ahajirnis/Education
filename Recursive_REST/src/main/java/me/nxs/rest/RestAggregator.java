@@ -10,11 +10,11 @@ import javax.ws.rs.client.ClientBuilder;
 public class RestAggregator {
 
     @GET
-    @Produces({"application/json"})
+    @Produces({"text/plain"})
     public String adder()
     {
         Client client = ClientBuilder.newClient();
         String response = client.target("http://localhost:8080/RecREST/ping").request().get().readEntity(String.class);
-        return response;
+        return response+", Aniket";
     }
 }
