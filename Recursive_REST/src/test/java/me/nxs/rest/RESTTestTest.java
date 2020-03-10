@@ -30,9 +30,9 @@ public class RESTTestTest {
 
     @Before
     public void before() throws Exception{
-//        webTarget = ClientBuilder.newClient().target(webappURL.toURI()).path("RecREST");
+        webTarget = ClientBuilder.newClient().target(webappURL.toURI()).path("RecREST");
         System.out.println(webappURL.getHost()+webappURL.getPort());
-        webTarget = ClientBuilder.newClient().target(webappURL.toURI());
+//        webTarget = ClientBuilder.newClient().target(webappURL.toURI());
     }
     @Deployment
     public static JavaArchive createDeployment() {

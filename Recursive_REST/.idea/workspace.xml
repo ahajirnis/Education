@@ -4,26 +4,310 @@
     <list default="true" id="b320ecd1-34c3-44cc-b1c5-360a66dc1562" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/nxs/rest/RestAggregator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/nxs/rest/RestAggregator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/me/nxs/rest/RESTTestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/me/nxs/rest/RESTTestTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/RecREST-1.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/RecREST-1.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/RecREST-1/WEB-INF/classes/me/nxs/rest/RestAggregator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/RecREST-1/WEB-INF/classes/me/nxs/rest/RestAggregator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apache-tomee/logs/catalina.2020-03-10.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/apache-tomee/logs/catalina.2020-03-10.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apache-tomee/logs/localhost_access_log.2020-03-10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/apache-tomee/logs/localhost_access_log.2020-03-10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/META-INF/maven/me.nxs.rest/RecREST/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/META-INF/maven/me.nxs.rest/RecREST/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/META-INF/maven/me.nxs.rest/RecREST/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/META-INF/maven/me.nxs.rest/RecREST/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/WEB-INF/classes/me/nxs/rest/RestAggregator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/WEB-INF/classes/me/nxs/rest/RestAggregator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/META-INF/maven/me.nxs.rest/RecREST/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/META-INF/maven/me.nxs.rest/RecREST/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/META-INF/maven/me.nxs.rest/RecREST/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/META-INF/maven/me.nxs.rest/RecREST/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/WEB-INF/classes/me/nxs/rest/RestAggregator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/WEB-INF/classes/me/nxs/rest/RestAggregator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/me/nxs/rest/RestAggregator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/me/nxs/rest/RestAggregator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/RecREST-1.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/RecREST-1/WEB-INF/classes/me/nxs/rest/RESTTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/RecREST-1/WEB-INF/classes/me/nxs/rest/RestAggregator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/RecREST-1/WEB-INF/lib/geronimo-jpa_2.2_spec-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/RecREST-1/WEB-INF/lib/javaee-api-8.0-3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/BUILDING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/RELEASE-NOTES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/RUNNING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/TomEE.amd64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/TomEE.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/TomEE.x86.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/bootstrap.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/catalina-tasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/catalina.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/catalina.bat.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/catalina.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/catalina.sh.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/ciphers.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/ciphers.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/commons-daemon-native.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/commons-daemon.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/configtest.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/configtest.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/daemon.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/digest.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/digest.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/makebase.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/makebase.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/service.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/service.install.as.admin.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/service.readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/service.remove.as.admin.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/setclasspath.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/setclasspath.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/shutdown.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/shutdown.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/startup.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/startup.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/tomcat-juli.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/tomcat-native.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/tomee.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/tomee.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/tool-wrapper.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/tool-wrapper.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/version.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/bin/version.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/catalina.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/conf.d/cxf-rs.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/conf.d/cxf.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/conf.d/hsql.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/jaspic-providers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/jaspic-providers.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/server.xml.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/system.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/tomcat-users.xml.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/tomcat-users.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/tomee.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/FastInfoset-1.2.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/activemq-broker-5.15.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/activemq-client-5.15.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/activemq-jdbc-store-5.15.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/activemq-kahadb-store-5.15.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/activemq-openwire-legacy-5.15.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/activemq-protobuf-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/activemq-ra-5.15.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/batchee-jbatch-0.5-incubating.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/bcprov-jdk15on-1.63.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/bval-jsr-2.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/catalina-ant.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/catalina-ha.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/catalina-ssi.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/catalina-storeconfig.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/catalina-tribes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/catalina.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/commons-beanutils-1.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/commons-cli-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/commons-codec-1.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/commons-collections-3.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/commons-collections4-4.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/commons-dbcp2-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/commons-digester-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/commons-jcs-core-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/commons-jcs-jcache-2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/commons-lang3-3.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/commons-pool2-2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cryptacular-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-core-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-bindings-soap-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-bindings-xml-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-databinding-jaxb-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-frontend-jaxrs-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-frontend-jaxws-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-frontend-simple-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-management-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-rs-client-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-rs-extension-providers-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-rs-extension-search-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-rs-json-basic-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-rs-mp-client-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-rs-security-cors-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-rs-security-jose-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-rs-security-jose-jaxrs-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-rs-security-oauth2-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-rs-service-description-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-security-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-security-saml-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-transports-http-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-ws-addr-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-ws-policy-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-ws-security-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/cxf-rt-wsdl-3.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/ecj-4.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/el-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/geronimo-config-impl-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/geronimo-connector-3.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/geronimo-health-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/geronimo-health-common-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/geronimo-javamail_1.4_mail-1.9.0-alpha-2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/geronimo-metrics-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/geronimo-metrics-common-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/geronimo-openapi-impl-1.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/geronimo-opentracing-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/geronimo-transaction-3.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/hawtbuf-1.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/howl-1.0.1-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/hsqldb-2.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/istack-commons-runtime-3.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/jackson-annotations-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/jackson-core-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/jackson-databind-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/jackson-dataformat-yaml-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/jakarta.activation-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/jakarta.xml.bind-api-2.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/jasper-el.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/jasper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/jaspic-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/jasypt-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/java-support-7.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/javaee-api-8.0-3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/jaxb-runtime-2.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/joda-time-2.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/johnzon-core-1.1.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/johnzon-jaxrs-1.1.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/johnzon-jsonb-1.1.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/johnzon-mapper-1.1.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/jose4j-0.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/jsp-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/mbean-annotation-api-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/microprofile-config-api-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/microprofile-fault-tolerance-api-1.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/microprofile-health-api-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/microprofile-jwt-auth-api-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/microprofile-metrics-api-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/microprofile-openapi-api-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/microprofile-opentracing-api-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/microprofile-rest-client-api-1.3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/mimepull-1.9.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/mp-common-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/mp-jwt-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/myfaces-api-2.3.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/myfaces-impl-2.3.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/neethi-3.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-api-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-client-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-core-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-cxf-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-cxf-rs-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-cxf-transport-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-ejbd-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-hsql-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-http-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-javaagent.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-jee-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-jee-accessors-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-jpa-integration-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-loader-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-rest-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-server-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openejb-webservices-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openjpa-3.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opensaml-core-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opensaml-profile-api-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opensaml-saml-api-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opensaml-saml-impl-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opensaml-security-api-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opensaml-security-impl-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opensaml-soap-api-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opensaml-xacml-api-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opensaml-xacml-impl-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opensaml-xacml-saml-api-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opensaml-xacml-saml-impl-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opensaml-xmlsec-api-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opensaml-xmlsec-impl-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/opentracing-api-0.31.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openwebbeans-ee-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openwebbeans-ee-common-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openwebbeans-ejb-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openwebbeans-el22-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openwebbeans-impl-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openwebbeans-jsf-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openwebbeans-spi-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/openwebbeans-web-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/org.osgi.annotation.versioning-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/quartz-openejb-shade-2.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/saaj-impl-1.5.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/safeguard-impl-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/serp-1.15.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/servlet-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/slf4j-api-1.7.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/slf4j-jdk14-1.7.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/snakeyaml-1.24.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/stax-ex-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/stax2-api-3.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/swizzle-stream-1.6.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/sxc-jaxb-core-0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/sxc-runtime-0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/taglibs-standard-impl-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/taglibs-standard-jstlel-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/taglibs-standard-spec-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-coyote.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-dbcp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-i18n-cs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-i18n-de.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-i18n-es.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-i18n-fr.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-i18n-ja.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-i18n-ko.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-i18n-pt-BR.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-i18n-ru.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-i18n-zh-CN.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-jdbc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-jni.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-util-scan.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-util.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomcat-websocket.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomee-catalina-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomee-common-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomee-config-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomee-jaxrs-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomee-jdbc-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomee-loader-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomee-mojarra-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomee-myfaces-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomee-webapp-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/tomee-webservices-8.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/txw2-2.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/websocket-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/woodstox-core-5.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/wsdl4j-1.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/wss4j-bindings-2.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/wss4j-policy-2.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/wss4j-ws-security-common-2.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/wss4j-ws-security-dom-2.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/wss4j-ws-security-policy-stax-2.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/wss4j-ws-security-stax-2.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/xbean-asm7-shaded-4.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/xbean-bundleutils-4.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/xbean-finder-shaded-4.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/xbean-naming-4.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/xbean-reflect-4.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/xml-resolver-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/xmlschema-core-2.2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/lib/xmlsec-2.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/logs/catalina.2020-03-10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/logs/host-manager.2020-03-10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/logs/localhost.2020-03-10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/logs/localhost_access_log.2020-03-10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/logs/manager.2020-03-10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/temp/safeToDelete.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/META-INF/maven/me.nxs.rest/RecREST/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/META-INF/maven/me.nxs.rest/RecREST/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/WEB-INF/classes/me/nxs/rest/RESTTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/WEB-INF/classes/me/nxs/rest/RestAggregator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/WEB-INF/lib/geronimo-jpa_2.2_spec-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST-1/WEB-INF/lib/javaee-api-8.0-3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/META-INF/maven/me.nxs.rest/RecREST/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/META-INF/maven/me.nxs.rest/RecREST/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/WEB-INF/classes/me/nxs/rest/RESTTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/WEB-INF/classes/me/nxs/rest/RestAggregator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/WEB-INF/lib/geronimo-jpa_2.2_spec-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apache-tomee/webapps/RecREST/WEB-INF/lib/javaee-api-8.0-3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/me/nxs/rest/RESTTestTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/me/nxs/rest/RESTTestTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/test.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,16 +321,15 @@
     <option name="myElementSize" value="119" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="26" selection-start-line="26" selection-end-line="30" selection-end-column="21" />
+            <state relative-caret-position="442">
+              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -54,12 +337,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/nxs/rest/RESTTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="153">
               <caret line="11" column="25" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,7 +349,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/me/nxs/rest/RestAggregator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="221">
               <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -77,11 +358,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/me/nxs/rest/RESTTestTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="530">
+              <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -92,7 +373,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomee/javaee-api/8.0-3/javaee-api-8.0-3-sources.jar!/javax/ws/rs/core/Response.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
+            <state relative-caret-position="3791">
               <caret line="289" column="8" selection-start-line="289" selection-start-column="8" selection-end-line="289" selection-end-column="8" />
             </state>
           </provider>
@@ -117,8 +398,8 @@
         <option value="$PROJECT_DIR$/src/main/java/RESTTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/nxs/rest/RESTTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/me/nxs/rest/RestAggregator.java" />
-        <option value="$PROJECT_DIR$/src/test/java/me/nxs/rest/RESTTestTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/me/nxs/rest/RESTTestTest.java" />
       </list>
     </option>
   </component>
@@ -139,7 +420,7 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="RecREST" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -162,9 +443,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RecREST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recursive_REST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RecREST" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recursive_REST" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,13 +564,11 @@
       <option name="presentableId" value="Default" />
       <updated>1583820344870</updated>
       <workItem from="1583820348480" duration="13858000" />
+      <workItem from="1583878549335" duration="1891000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TomEE_Embedded__RESTTestTest_checkPingStatus - 2020.03.10 at 05h 36m 58s.xml">
-      <configuration name="TomEE Embedded: RESTTestTest.checkPingStatus" configurationId="ArquillianJUnit" />
-    </history-entry>
     <history-entry file="TomEE_Embedded__RESTTestTest_checkPingStatus - 2020.03.10 at 05h 37m 48s.xml">
       <configuration name="TomEE Embedded: RESTTestTest.checkPingStatus" configurationId="ArquillianJUnit" />
     </history-entry>
@@ -302,28 +596,25 @@
     <history-entry file="TomEE_Embedded__RESTTestTest_checkPingStatus - 2020.03.10 at 05h 56m 46s.xml">
       <configuration name="TomEE Embedded: RESTTestTest.checkPingStatus" configurationId="ArquillianJUnit" />
     </history-entry>
+    <history-entry file="TomEE_Embedded__RESTTestTest - 2020.03.10 at 18h 24m 10s.xml">
+      <configuration name="TomEE Embedded: RESTTestTest" configurationId="ArquillianJUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13858000" />
+    <option name="totallyTimeSpent" value="15749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2514" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Web" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2563162" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2583537" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.24091381" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32917964" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32917964" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
@@ -331,18 +622,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" sideWeight="0.49948078" visible="true" weight="0.14629176" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="CDI" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Coverage" sideWeight="0.5005192" side_tool="true" visible="true" weight="0.14629176" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.24091381" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32917964" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32917964" />
+      <window_info anchor="right" id="JSF" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.49948078" visible="true" weight="0.14629176" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" sideWeight="0.5005192" side_tool="true" visible="true" weight="0.14629176" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="CDI" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,6 +672,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -394,26 +707,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/me/nxs/rest/RESTTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="153">
           <caret line="11" column="25" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomee/javaee-api/8.0-3/javaee-api-8.0-3-sources.jar!/javax/ws/rs/core/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="289" column="8" selection-start-line="289" selection-start-column="8" selection-end-line="289" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/me/nxs/rest/RestAggregator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
+        <state relative-caret-position="221">
           <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -421,20 +725,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/me/nxs/rest/RESTTestTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomee/javaee-api/8.0-3/javaee-api-8.0-3-sources.jar!/javax/ws/rs/core/Response.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="3791">
+          <caret line="289" column="8" selection-start-line="289" selection-start-column="8" selection-end-line="289" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/me.nxs.rest.RESTTestTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="26" selection-start-line="26" selection-end-line="30" selection-end-column="21" />
+        <state relative-caret-position="442">
+          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/TEST-me.nxs.rest.RESTTestTest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="65" column="64" selection-start-line="65" selection-start-column="60" selection-end-line="65" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/me/nxs/rest/RESTTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="52" column="23" lean-forward="true" selection-start-line="52" selection-start-column="23" selection-end-line="52" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

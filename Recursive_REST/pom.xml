@@ -13,6 +13,7 @@
         <tomee.version>8.0.1</tomee.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
+        <junit.version>4.13</junit.version>
         <failOnMissingWebXml>false</failOnMissingWebXml>
     </properties>
 
@@ -29,10 +30,25 @@
             <artifactId>javaee-api</artifactId>
             <version>8.0-3</version>
         </dependency>
+
+
+        <!--TESTING-->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>RELEASE</version>
+            <version>${junit.version}</version>
+            <scope>test</scope>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.hamcrest</groupId>
+                    <artifactId>hamcrest-core</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
+            <groupId>org.hamcrest</groupId>
+            <artifactId>java-hamcrest</artifactId>
+            <version>2.0.0.0</version>
             <scope>test</scope>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.jboss.arquillian.junit/arquillian-junit-container -->
@@ -42,8 +58,12 @@
             <version>1.6.0.Final</version>
             <scope>test</scope>
         </dependency>
-
-
+        <dependency>
+            <groupId>org.apache.tomee</groupId>
+            <artifactId>arquillian-tomee-embedded</artifactId>
+            <version>${tomee.version}</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
     <build>
